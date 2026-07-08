@@ -1,7 +1,3 @@
-
-<<<<<<< HEAD
-
-=======
 # HealthHub — AI-Powered Personal Wellness Platform
 
 ## 1. Overview
