@@ -115,17 +115,6 @@ The following screenshots showcase the core experience of the application:
 
 ![Health Store](./frontend/public/gitImage/health%20store.png)
 
-### Wellness Blog / Content
-
-![Health Blog](./frontend/public/gitImage/health%20blog.png)
-
-### Challenges Section
-
-![Health Challenges](./frontend/public/gitImage/health%20challanges.png)
-
-### Dashboard Overview 2
-
-![Health Dashboard 2](./frontend/public/gitImage/health%20dashboard%202.png)
 
 ---
 
