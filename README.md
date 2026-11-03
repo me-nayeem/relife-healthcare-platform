@@ -290,10 +290,3 @@ Potential enhancements for the next version:
 ## 14. Credits
 
 Built as a hackathon project focused on combining wellness, AI, and user engagement in one experience.
-
----
-
-## 15. License
-
-This project is intended for educational and demonstration purposes.
->>>>>>> 31c1cd9 (docs: Modified README.md file)
